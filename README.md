@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-FastAPI%2FStreamlit-orange">
   <img src="https://img.shields.io/badge/NLP-Transformers-brightgreen">
   <img src="https://img.shields.io/badge/Healthcare-AI-red">
